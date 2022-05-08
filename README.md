@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+# I'm Chetan Bogali
+
+I'm Chetan a 3rd year <b>Computer Science and Engineering</b><br>
+Undergradute from Tontadarya College of Engineering, Gadag.<br>
+I'm Web development enhusiast and love to learn new technlogies.<br>
+currently working on <b>Front-end Web development,</b> aspiring <br>
+to become <b>Fullstack developer</b>.
+
 <!--
 **chetanbogali/chetanbogali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,8 +22,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Chetan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<!-- <h1 align="center">Hi 👋, I'm Chetan</h1>
+<h3 align="center">A passionate frontend developer from India</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chetanbogali&label=Profile%20views&color=0e75b6&style=flat" alt="chetanbogali" /> </p>
 
