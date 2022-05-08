@@ -3,8 +3,8 @@
 # I'm Chetan Bogali
 
 I'm Chetan a 3rd year <b>Computer Science and Engineering</b><br>
-Undergradute from Tontadarya College of Engineering, Gadag.<br>
-I'm Web development enhusiast and love to learn new technlogies.<br>
+Undergraduate from Tontadarya College of Engineering, Gadag.<br>
+I'm Web development enthusiast and love to learn new things.<br>
 currently working on <b>Front-end Web development,</b> aspiring <br>
 to become <b>Fullstack developer</b>.
 
