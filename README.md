@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chetanbogali&label=Profile%20views&color=0e75b6&style=flat" alt="chetanbogali" /> </p>
 
+- 🔭 I’m currently working on ... **Front-end, JavaScipt**
 - 🌱 I’m currently learning **JavaScript, Java and DSA**
+- 💬 Ask me about ... HTML, CSS, Python, Java 
 
 - 📫 How to reach me **chetubogali05@gmail.com**
 
