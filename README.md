@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... **Front-end, JavaScript**
 - 🌱 I’m currently learning **JavaScript, Java and DSA**
-- 💬 Ask me about ... HTML, CSS, Python, Java 
+- 💬 Ask me about ... HTML, CSS, Java 
 
 - 📫 How to reach me **chetubogali05@gmail.com**
 
