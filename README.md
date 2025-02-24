@@ -8,6 +8,18 @@ I'm Web development enthusiast and love to learn new things.<br>
 currently intern at KodNest <b>Java Full-Stack development,</b> aspiring <br>
 to become <b>Fullstack developer</b>.
 
+Subject: Thank You and Farewell
+
+Dear [Team],
+
+As today marks my last working day at [Company Name], I want to express my heartfelt gratitude for the opportunity to be a part of this organization. I sincerely appreciate the support and guidance from my colleagues, my trainer, and my team leader throughout my journey here. Your help has played a significant role in my learning and growth.
+
+I am especially grateful for the friendships I have built here. Working with such amazing people has been a truly memorable experience, and I will cherish the moments we shared. I’m really going to miss you all!
+
+Thank you once again for everything. Wishing you all continued success, and I hope we stay in touch!
+
+Best regards,
+Chetan
 <!--
 **chetanbogali/chetanbogali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
