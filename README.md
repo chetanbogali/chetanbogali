@@ -20,6 +20,18 @@ Thank you once again for everything. Wishing you all continued success, and I ho
 
 Best regards,
 Chetan
+
+As today marks my last working day at [Company Name], I want to take a moment to express my heartfelt gratitude. Thank you for the opportunity to be a part of this organization and for all the support, guidance, and memories along the way. A special thanks to my colleagues, my trainer, and my team leader for helping me grow—I promise I wasn’t just here for the free coffee (well, mostly)!
+
+I’m also incredibly grateful for the friendships I’ve built here. You all made work so much more fun (and sometimes chaotic, but in the best way). I’ll truly miss our coffee breaks, team banter, and those moments when we all pretended to look busy!
+
+As I move forward, I leave you with the words of a great pirate captain:
+"No matter how hard or impossible it is, never lose sight of your goal." – Monkey D. Luffy.
+
+Wishing you all continued success, and I hope we stay in touch! (Also, don’t be surprised if I randomly show up for snacks someday.)
+
+Best regards,
+Chetan
 <!--
 **chetanbogali/chetanbogali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
