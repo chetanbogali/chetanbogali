@@ -2,11 +2,8 @@
 
 # I'm Chetan Bogali
 
-I'm Chetan <b>CSE Student</b><br>
-Graduated from <b>Tontadarya College of Engineering, Gadag</b>.<br>
-I'm Web development enthusiast and love to learn new things.<br>
-currently intern at KodNest <b>Java Full-Stack development,</b> aspiring <br>
-to become <b>Fullstack developer</b>.
+I'm Chetan <b>SAP UI5/Fiori consultant</b><br>
+Graduated from <b>Tontadarya College of Engineering, Gadag</b>
 
 <!--
 **chetanbogali/chetanbogali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,9 +24,9 @@ Here are some ideas to get you started:
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=chetanbogali&label=Profile%20views&color=0e75b6&style=flat" alt="chetanbogali" /> </p> -->
 
-- 🔭 I’m currently working on ... **Front-end, JavaScript**
-- 🌱 I’m currently learning **JavaScript, Java and DSA**
-- 💬 Ask me about ... HTML, CSS, Java 
+- 🔭 I’m currently working as ... **SAP UI5/Fiori consultant**
+- 🌱 I’m currently learning **SAP UI5, Fiori, ABAP, OOABAP and OData**
+- 💬 Technical skill: *Html5, css3, javascript, sap ui5, fiori, abap, oobap and odata
 
 - 📫 How to reach me **chetubogali05@gmail.com**
 
