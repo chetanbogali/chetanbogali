@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working as ... **SAP UI5/Fiori consultant**
 - 🌱 I’m currently learning **SAP UI5, Fiori, ABAP, OOABAP and OData**
-- 💬 Technical skill: *Html5, css3, javascript, sap ui5, fiori, abap, oobap and odata
+- 💬 Technical skill: **Html5, css3, javascript, sap ui5, fiori, abap, oobap and odata**
 
 - 📫 How to reach me **chetubogali05@gmail.com**
 
